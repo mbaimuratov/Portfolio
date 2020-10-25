@@ -1,0 +1,108 @@
+body {
+  background: Blue;
+  border: 5px dotted black;
+  padding: 5px;
+}
+
+.topdiv {
+  /*Styling the top "header" for my page*/
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: RoyalBlue;
+  border-width: 1px;
+  padding-left: 5px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+div {
+  border: 5px solid black;
+  padding: 1px;
+  margin: 5px;
+  background: lightblue;
+}
+
+.foods {
+  border: none;
+}
+
+h1 {
+  text-align: center;
+  color: DarkCyan;
+  font-size: 5em;
+  border: 5px solid black;
+  padding: 15px;
+}
+
+h3.Favs {
+  text-align: center;
+  font-size: 1em;
+  display: block;
+}
+
+.Favs {
+  font-size: 2em;
+  color: gold;
+  background-color: green;
+  display: inline-block;
+  border: 5px solid black;
+  margin: 5px;
+  padding: 15px;
+}
+
+img {
+  border: 5px solid black;
+}
+
+ul {
+  list-style: none;
+}
+
+#moviesLi {
+  display: table;
+}
+
+#foodsLi {
+  display: table;
+}
+
+#booksLi{
+  display: table;
+}
+
+li {
+  padding: 5px;
+  margin: 7px;
+  float: left;
+}
+
+li img {
+  vertical-align: top;
+}
+
+img:hover {
+  border: 5px solid yellow;
+}
+
+table {
+  text-align: center;
+}
+
+
+.school{
+  width: 50%;
+  border: none;
+}
+
+.univer{
+  border: none;
+  width: 50%;
+}
+
+.books{
+  border: none;
+}
+
+.MEIIRBEK{
+  border: none;
+}
